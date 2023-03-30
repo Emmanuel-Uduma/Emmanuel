@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Microsoft Excel Analysis</b>
+- <b>Microsoft Excel Analysis (Pivot Chart, Tables, Macros, VLookup, HLookup)</b>
   - [Supermarket Month Sales](https://github.com/EnfinityA/Emmanuel/issues/1)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Power BI (Analysis, Visualizations) </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
