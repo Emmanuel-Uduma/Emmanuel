@@ -1,45 +1,35 @@
-<h1>Hi, I'm Emmanuel! <br/><a href="https://www.linkedin.com/in/emmanueluduma/r/">A Data Analyst</a>
+### Hi, I'm Emmanuel Uduma! 🥰
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+## [A Data Analyst](https://www.linkedin.com/in/emmanueluduma/r/) 
 
-- <b>Microsoft Excel Analysis (Pivot Chart, Tables, Macros, VLookup, HLookup)</b>
-  - [Supermarket Month Sales](https://github.com/EnfinityA/Emmanuel/issues/1)
-- <b>Power BI (Analysis, Visualizations) </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ - 👨‍💻 I collect, clean, and validate data from various sources, ensuring the accuracy, consistency, and reliability of data sets.
+ - 👨‍💻 I perform in-dept data analysis using advanced statistical tools and techniques to identify trends, patterns, and correlations in complex data sets.
+ - 👨‍💻 I develop and maintain data models, reports, and dashboards, using data visualization tools such as Power BI or Tableau, to effectively communicate insights to stakeholders.
+ - 👨‍💻 I collaborate with cross-functional teams to define key performance indicators (KPIs), understand their data needs, and develop data-driven solutions to support decision-making.
+ - 👨‍💻 I monitor and maintain data quality and integrity by identifying and addressing inconsistencies and errors in data sets.
 
-<h2>📺 Popular YouTube Videos</h2>
+## Interests 😍
+ - 👨‍💻 I am open to Data Analytics roles.
+ - 👨‍💻 I am dedicated to the continuous improvements in data analytics processes and methodologies to ensure efficiency, effectiveness, and alignment with industry best practices.
+ - 👨‍💻 To stay current with industry trends, advancements in data analytics tools and technologies, and emerging data analytics techniques.
+ - 👨‍💻 To mentor and provide guidance to entry-level data analysts, assisting them in developing their skills and knowledge.
+ - 👨‍💻 To lead and manage data-related projects, ensuring timely delivery and alignment with stakeholder expectations.
+ - 👨‍💻 To design and implement data collection systems, strategies, and procedures to improve data quality and efficiency.
+  
+<h2>👨‍💻 Data Analytics Tools I use:</h2>
+- Microsoft Excel / Google Sheets / R / PostgreSQL / Power BI 
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<h2> 👨‍💻 I'm currently working on:</h2>
+  - Python / Tableau
+  
+### 🤳 Connect with me
+[twitter](https://twitter.com/EmmanuelUduma17?t=uoYLcOKstR-YErHwdM8Txw&s=09) /
+[facebook](https://www.facebook.com/emmanuel.uduma.543) /
+[instagram](https://www.instagram.com/chukwuhorom/) /
+[linkedin](https://linkedin.com/in/emmanueluduma)
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Emmanuel-Uduma/Emmanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
